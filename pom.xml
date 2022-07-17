@@ -3,14 +3,14 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.dongnguyen</groupId>
     <artifactId>lib-demo</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
     <scm>
         <developerConnection>scm:git:git@github.com:nguyentiendong99/lib-nexus.git</developerConnection>
-        <tag>lib-demo-0.0.1</tag>
+        <tag>lib-demo-0.0.2</tag>
     </scm>
     <!--    <scm>-->
     <!--        <connection>scm:git:git@bitbucket.org:servicequik/servicequik-client-backend-service.git</connection>-->
